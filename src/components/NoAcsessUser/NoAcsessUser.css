@@ -1,0 +1,75 @@
+.noUserAccess h1 {
+    text-align: center;
+}
+
+.noUserAccess h2 {
+    margin-top: 50px;
+    text-align: center;
+    color: #e3175e;
+}
+
+.noUserAccess h3 {
+
+    text-align: center;
+}
+
+.stepContent {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    padding: 15px 25px;
+    width: 250px;
+    background-color: rgba(240, 248, 255, 0.131);
+    height: 130px;
+    color: rgb(140, 139, 162);
+    border-top-left-radius: 50px;
+
+}
+
+.noUserAccess {
+    text-align: center;
+}
+
+.stepsWrapper {
+
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.stepTitle {
+    color: rgb(255, 248, 240);
+    font-style: 20px;
+    text-align: center;
+    font-weight: 700;
+    margin-right: 20px;
+}
+
+.StepStatus {
+    font-weight: 500;
+    margin-top: 10px;
+    color: rgb(226, 223, 223);
+    line-height: 35px;
+    background-color: rgb(139, 24, 24);
+    border-bottom-right-radius: 50px;
+    text-align: center;
+}
+
+.StepStatus .complete {
+    line-height: 35px;
+    background-color: #288123;
+    border-bottom-right-radius: 50px;
+
+}
+
+.invesmentsAnalysis {
+    width: 760px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: left;
+    color: white;
+    margin-bottom: 40px;
+
+}

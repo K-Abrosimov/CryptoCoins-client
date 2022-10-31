@@ -1,0 +1,44 @@
+.profile-status {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    margin-bottom: 30px;
+    height: 50px;   
+}
+
+.profile-status h1 {
+    margin: 0;
+}
+
+.profile-status .input-wrapper {
+    margin-top: 5px;
+}
+
+.status-box {
+    color: aliceblue;
+    line-height: 50px;
+    background-color: rgba(254, 254, 254, 0.047);
+    padding-left: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+}
+
+.status-box .editIcon {
+    display: inline-block;
+    vertical-align: middle;
+    position: absolute;
+    right: 20px;
+    top: 18px;
+    color: rgb(151, 143, 143);
+}
+
+.status-box .title {
+
+    color: rgb(151, 143, 143);
+    font-weight: 700;
+}
+
+.status-box .status {
+    color: rgb(216, 212, 212);
+    margin-left: 10px;
+}

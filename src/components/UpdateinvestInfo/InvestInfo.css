@@ -1,0 +1,60 @@
+.updateinfo{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+    text-align: left;
+}
+
+.investInfo{
+    color: rgb(184, 184, 184);
+    margin-top: 50px;
+    width: 250px;
+}
+
+.investInfo span{
+    padding-right: 5PX;
+    color:#bf1650
+}
+
+.investInfoBtn{
+    margin-top: 10px;
+    margin-right: 3px;
+   border-radius: 5px;
+   padding: 5px;
+}
+.updateInfoForm{
+    width: 400px;
+  
+}
+
+.addInfoForm {
+
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.inputWrapper input,select,textarea {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid rgb(28, 20, 143);
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    font-size: 14px;
+
+}
+
+.inputWrapper label {
+    line-height: 2;
+    text-align: left;
+    display: block;
+    margin-bottom: 13px;
+    margin-top: 20px;
+    color: white;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+
+

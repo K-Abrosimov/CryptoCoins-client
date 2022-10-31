@@ -1,0 +1,14 @@
+.profile-input-wrapper{
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 110px;  
+}
+.profile-input-wrapper .contact-img{
+    text-align: center;
+}
+.profile-input-wrapper .contact-img img{
+    height: 40px;
+    margin: 0 10px;
+    cursor: pointer;   
+}
+

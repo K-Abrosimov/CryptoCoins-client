@@ -1,0 +1,16 @@
+.activation{
+    margin-top: 200px;
+    color: white;
+    text-align: center;
+}
+.activation h1{
+    text-align: center;
+}
+.timer{
+    display: inline;
+    font-size: 25px;
+    color:#1d8dbd;
+    font-weight: 700;
+    text-align:center;
+    vertical-align: middle;
+}

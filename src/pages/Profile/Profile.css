@@ -1,0 +1,123 @@
+.profile-info-wrapper {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 3fr 10fr;
+   margin-bottom: 100px;
+
+}
+
+.profile-info {
+    margin-left: 40px;
+    width: 707px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.profile-info button{
+    margin-left: 15px;  
+}
+
+.profile-info .data-box {
+    display: grid;
+    grid-template-columns: 1fr 11fr;
+    margin-bottom: 20px;
+}
+
+h3{
+    color:#1d8dbd;
+    margin-top: 0;
+    display: inline-block;
+}
+
+.profile-info label {
+    background-color: #1d8dbd75;
+    margin-bottom: 0;
+    text-align: center;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    padding-top: 5px;
+
+}
+
+.profile-info .profile-data {
+    background-color: #79888e19;
+    color: rgba(240, 248, 255, 0.738);
+    padding-left: 20px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    line-height: 40px;
+}
+
+.profile-icon {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 30px;
+    text-align: center;
+    color:rgba(240, 248, 255, 0.579)
+    
+}
+
+.social-netwoorks .icon{
+    height: 40px;
+    line-height: 10px;
+    
+}
+.social-netwoorks ul{
+    display: flex;
+    justify-content: space-around;
+} 
+.networks-links a{
+    margin-left: 20px;
+}
+.no-nettorks-links{
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+    color: red;
+}
+.subscribe-info{
+    margin-top: 20px;
+    background-color:rgb(19, 30, 40);
+    padding: 5px;
+    border-radius:5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+.subscribe-info .lock{
+    color: rgba(240, 248, 255, 0.738);
+    margin-left: 20px;
+}
+.subscribe-info .lock a{
+    color: #1d8dbd;
+    margin-left: 5px;
+}
+.subscribe-info .lock-icon{
+    display:inline-block;
+    vertical-align: middle;
+    color: red;
+
+}
+.unlock{
+    color:rgba(240, 248, 255, 0.738) ;
+    padding-left: 20px;
+} 
+.unlock span{
+    color: green;
+    font-weight: 600;
+    margin-right: 10px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

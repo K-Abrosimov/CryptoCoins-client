@@ -1,0 +1,47 @@
+.investments {
+    margin-bottom: 100px;
+}
+
+/* No Acsess User */
+
+
+
+/* User Acsess */
+
+
+
+.user-acsess p{
+    display: inline;
+    margin-left: 20px;
+    color:rgba(240, 248, 255, 0.538)
+}
+
+.acsess-data {
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    color: rgb(255, 255, 255);
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    font-style: 17px;
+    font-weight: 600;
+}
+
+
+.acsess-data span {
+    font-style: 10px;
+    font-weight: 500;
+    color: #e3175e;
+    padding-right: 5px;
+    text-transform: capitalize;
+
+}
+
+.investDataWrapper {
+    width: 270px;
+    margin-top: 30px;
+    border-radius:10px;
+    padding: 15px;
+    background-color:rgb(19, 30, 40);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+ 
+}
